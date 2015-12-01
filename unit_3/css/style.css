@@ -8,5 +8,17 @@ h1 {
 
 #slogan {
 	font-style: italic;
+	color: #EEA7B2;
+	font-size: 24px;
 }
 
+ul {
+	text-align: center;
+	list-style-type: none;
+	color: white;
+}
+
+p {
+	color: white;
+	font-weight: bold;
+}
