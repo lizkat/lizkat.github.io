@@ -4,26 +4,28 @@ body {
 }
 
 h1 {
-	color: #C50000;
-	font-size: 72px;
+	color: #913C60;
+	font-size: 100px;
 	font-family: Impact, sans-serif;
 }
 
 #slogan {
 	font-style: italic;
 	color: #EEA7B2;
-	font-size: 35px;
-	font-family: Arial, sans-serif;
+	font-size: 32px;
+	font-family: Helvetica, sans-serif;
 }
 
 ul {
-	list-style: none;
+	list-style: inside;
 	color: #EEA7B2;
 	font-family: Arial, sans-serif;
-
+  font-size: 26px;
 }
 
 p {
 	color: white;
 	font-weight: bold;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
 }
