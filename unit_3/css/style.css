@@ -18,7 +18,10 @@ h1 {
 
 ul {
 	text-align: center;
+	list-style: none;
 	color: white;
+	font-family: Arial, sans-serif;
+
 }
 
 p {
