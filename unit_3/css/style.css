@@ -5,14 +5,14 @@ body {
 
 h1 {
 	color: #913C60;
-	font-size: 105px;
+	font-size: 75px;
 	font-family: Impact, sans-serif;
 }
 
 #slogan {
 	font-style: italic;
 	color: #EEA7B2;
-	font-size: 35px;
+	font-size: 25px;
 	font-family: Helvetica, sans-serif;
 }
 
@@ -20,12 +20,12 @@ ul {
 	list-style: inside;
 	color: #EEA7B2;
 	font-family: Arial, sans-serif;
-    font-size: 26px;
+    font-size: 18px;
 }
 
 p {
 	color: white;
 	font-weight: bold;
     font-family: Arial, sans-serif;
-    font-size: 24px;
+    font-size: 18px;
 }
