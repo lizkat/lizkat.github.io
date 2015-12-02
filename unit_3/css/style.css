@@ -1,5 +1,5 @@
 body {
-	background: black;
+	background: #000000;
 	text-align: center;
 }
 
@@ -19,7 +19,7 @@ h1 {
 ul {
 	text-align: center;
 	list-style: none;
-	color: white;
+	color: #EEA7B2;
 	font-family: Arial, sans-serif;
 
 }
