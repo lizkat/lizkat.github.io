@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+@import url(https://fonts.googleapis.com/css?family=Cookie);
+
+@import url(https://fonts.googleapis.com/css?family=Limelight);
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+h1 {
+	color: #913C60;
+	font-size: 75px;
+	font-family: Limelight, sans-serif;
+  letter-spacing: 3px;
+}
+
+
+#slogan {
+	color: #EEA7B2;
+	font-size: 50px;
+	font-family: Cookie, sans-serif;
+  
+
+}
+
+ul {
+	list-style: inside;
+	color: #EEA7B2;
+	font-family: Lato, sans-serif;
+    font-size: 18px;
+}
+
+p {
+	color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: normal;
+  line-height: 180%;
+}
