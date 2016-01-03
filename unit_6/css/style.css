@@ -95,9 +95,6 @@ ul {
   width: 62%;
 }
 
-.image {
-  float: left;
-}
 
 .clearfix:after {
   visibility: hidden;
