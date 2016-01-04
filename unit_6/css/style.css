@@ -30,6 +30,11 @@ header {
 }
 
 
+div {
+  width: 1400px;
+  margin: auto;
+}
+
 nav {
   font-size: 25px;
   border: 1px black solid;
