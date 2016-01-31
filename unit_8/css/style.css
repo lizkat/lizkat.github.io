@@ -1,0 +1,118 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+@import url(https://fonts.googleapis.com/css?family=Cookie);
+
+@import url(https://fonts.googleapis.com/css?family=Limelight);
+
+body {
+	background-color: #000000;
+	text-align: center;
+}
+
+header {
+	color: #913C60;
+	font-size: 75px;
+	font-family: Limelight, sans-serif;
+  letter-spacing: 2px;
+  background-color: #FFED74;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+#slogan {
+	color: #EEA7B2;
+	font-size: 50px;
+	font-family: Cookie, sans-serif;
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #FFED74;
+ 
+}
+
+
+div {
+  width: 1400px;
+  margin: auto;
+}
+
+nav {
+  font-size: 25px;
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #E8C66A;
+}
+
+
+aside {
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #FFC675;
+}
+
+article {
+	color: #FFFFFF;
+    font-family: Lato, sans-serif;
+    font-weight: normal;
+    line-height: 180%;
+    font-size: 30px;
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #E89C6C;
+}
+
+section {
+  color: #FFFFFF;
+    font-family: Lato, sans-serif;
+    font-weight: normal;
+    line-height: 180%;
+    font-size: 20px;
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #FFE2B8;
+}
+
+ul {
+	list-style: inside;
+	color: #FFFFFF;
+	font-family: Lato, sans-serif;
+  font-size: 20px;
+}
+
+#two_column {
+  background-color: #FFB7CF;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+#left {
+  background-color: #E582A2;
+  border: 1px black solid;
+  padding: 20px;
+  float: left;
+  width: 30%;
+}
+
+#right {
+  background-color: #E55B88;
+  border: 1px black solid;
+  padding: 20px;
+  float: right;
+  width: 62%;
+}
+
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+footer {
+  font-size: 35px;
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #FF957E;
+}
