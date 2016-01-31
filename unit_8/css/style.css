@@ -5,59 +5,58 @@
 @import url(https://fonts.googleapis.com/css?family=Limelight);
 
 body {
-	background-color: #000000;
-	text-align: center;
+  background-color: #ffffff;
+  text-align: center;
 }
 
 header {
-	color: #913C60;
-	font-size: 75px;
-	font-family: Limelight, sans-serif;
+  color: #E87CFF;
+  font-size: 75px;
+  font-family: Limelight, sans-serif;
   letter-spacing: 2px;
-  background-color: #FFED74;
-  border: 1px black solid;
-  padding: 20px;
+  padding: 1%;
+  margin: 1%;
+  background-color: #000000;
 }
 
 #slogan {
-	color: #EEA7B2;
-	font-size: 50px;
-	font-family: Cookie, sans-serif;
-  border: 1px black solid;
-  padding: 20px;
-  background-color: #FFED74;
+  color: #FFFFFF;
+  font-size: 50px;
+  font-family: Cookie, sans-serif;
+  padding: 1%;
+  background-color: #000000;
  
 }
 
 
 div {
-  width: 1400px;
+  width: 100%;
   margin: auto;
 }
 
 nav {
   font-size: 25px;
-  border: 1px black solid;
-  padding: 20px;
-  background-color: #E8C66A;
+  border: 1px white solid;
+  padding: 1%;
+  background-color: #E87CFF;
 }
 
 
 aside {
   border: 1px black solid;
   padding: 20px;
-  background-color: #FFC675;
+  background-color: #000000;
 }
 
 article {
-	color: #FFFFFF;
+  color: #FFFFFF;
     font-family: Lato, sans-serif;
     font-weight: normal;
     line-height: 180%;
     font-size: 30px;
   border: 1px black solid;
-  padding: 20px;
-  background-color: #E89C6C;
+  padding: 3%;
+  background-color: #000000;
 }
 
 section {
@@ -67,37 +66,36 @@ section {
     line-height: 180%;
     font-size: 20px;
   border: 1px black solid;
-  padding: 20px;
-  background-color: #FFE2B8;
+  padding: 3%;
+  background-color: #000000;
 }
 
 ul {
-	list-style: inside;
-	color: #FFFFFF;
-	font-family: Lato, sans-serif;
+  list-style: inside;
+  color: #FFFFFF;
+  font-family: Lato, sans-serif;
   font-size: 20px;
 }
 
 #two_column {
-  background-color: #FFB7CF;
-  border: 1px black solid;
-  padding: 20px;
+  background-color: #000000;
+  padding: 1%;
 }
 
 #left {
-  background-color: #E582A2;
-  border: 1px black solid;
-  padding: 20px;
+  background-color: #000000;
+  border: 4px white solid;
+  padding: 1%;
   float: left;
   width: 30%;
 }
 
 #right {
-  background-color: #E55B88;
-  border: 1px black solid;
-  padding: 20px;
+  background-color: #000000;
+  border: 4px white solid;
+  padding: 1%;
   float: right;
-  width: 62%;
+  width: 63%;
 }
 
 
@@ -112,7 +110,7 @@ ul {
 
 footer {
   font-size: 35px;
-  border: 1px black solid;
-  padding: 20px;
-  background-color: #FF957E;
+  border: 1px white solid;
+  padding: 1%;
+  background-color: #E8A8FF;
 }
