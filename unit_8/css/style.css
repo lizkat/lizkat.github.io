@@ -7,6 +7,8 @@
 body {
   background-color: #ffffff;
   text-align: center;
+  width: 80%; 
+  margin: 0 auto;
 }
 
 header {
@@ -117,17 +119,20 @@ footer {
   background-color: #E8A8FF;
 }
 
-@media only screen and (max-width: 1235px;){
+#image-wrapper{
+  max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+@media only screen and (max-width: 500px;){
   nav {
     float: none;
   }
-
-  article{
+  article {
     float: none;
     width: auto;
   }
 
-  img {
-    width: 250px;
-  }
 }
