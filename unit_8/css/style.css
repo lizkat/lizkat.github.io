@@ -122,17 +122,17 @@ footer {
   nav {
     display: block;
     text_align: center;
-    maring: 0;
+    margin: 0;
   }
  
   article {
     float: none;
-    width: 50%;
+    width: auto;
     overflow: hidden;
   }
   section {
     float: none;
-    width: 50%;
+    width: auto;
     overflow: hidden;
   }
   
